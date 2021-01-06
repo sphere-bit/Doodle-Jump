@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     !isJumping
                 ) {
                     console.log('landed')
-                    jump()
+                    jump() //35:58 https://www.youtube.com/watch?v=8xPsg6yv7TU
                 }
 
             })
