@@ -1,13 +1,17 @@
 .grid {
     width: 400px;
     height: 600px;
+    background-image: url('.png');
     background-color: yellow;
     position: relative;
+    font-size: 200px;
+    text-align: center;
 }
 
 .doodler {
     width: 60px;
     height: 85px;
+    background-image: url('.png');
     background-color: red;
     position: absolute;
 }
@@ -15,6 +19,7 @@
 .platform {
     width: 85px;
     height: 15px;
+    background-image: url('.png');
     background-color: green;
     position: absolute;
 }
